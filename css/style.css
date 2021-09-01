@@ -77,12 +77,12 @@ body {
   line-height: 1;
   font-weight: 400;
   overflow-x: hidden;
-  background-color: #171717;
-  /* background: no-repeat center center fixed;
+  /*background-color: #171717;*/
+  background: no-repeat center center fixed;
   background-size: cover;
   background-image: url("./bg-imgs/bg2.png"),
     linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75));
-  background-blend-mode: overlay; */
+  background-blend-mode: overlay; 
 }
 
 /******************************************* ** */
