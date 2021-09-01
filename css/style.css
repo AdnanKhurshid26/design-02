@@ -512,9 +512,9 @@ input {
   border: solid 2px #ffffff;
   border-radius: 0.3vw;
   font-family: "Rubik";
-
-  letter-spacing: 2px;
-  color: white;
+  font-weight: 400;
+  letter-spacing: 4px;
+  color: #ffffffb3;
 }
 
 textarea {
@@ -526,8 +526,8 @@ textarea {
   border-radius: 0.3vw;
   padding: 1rem;
   font-size: 0.85vw;
-  /* font-family: "Rubik"; */
-  letter-spacing: 2px;
+  font-family: "Rubik";
+  letter-spacing: 4px;
   color: white;
 }
 ::placeholder {
@@ -535,6 +535,7 @@ textarea {
   color: white;
   opacity: 0.7;
   font-size: 0.85vw;
+  font-family: "Rubik";
   /* Firefox */
 }
 
