@@ -179,7 +179,7 @@ html {
   /******************************************* ** */
   .section-works {
     gap: 4.2vw;
-    padding: 4vw;
+    padding: 4vw 8vw;
   }
   .works {
     grid-template-columns: 1fr;
