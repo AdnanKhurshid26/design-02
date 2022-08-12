@@ -199,7 +199,8 @@ header {
   height: 8.4vh;
   position: fixed;
   background-color: transparent;
-  z-index: 10;
+  z-index: 10;]
+  transition : all 0.5s
 }
 .header-active {
   background-color: rgba(0, 0, 0, 0.8);
